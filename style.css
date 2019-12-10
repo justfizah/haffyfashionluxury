@@ -1,11 +1,11 @@
-* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-  .body {font-size: 11px}
+
+
+
 
   
 
 
-}
+
 
 body, *, *:before, *:after{
 	box-sizing: border-box;
@@ -69,7 +69,7 @@ html, body {
 /*.container {
   padding: 16px;
 }*/
-/*
+
 input[type=text] {
   width: 100%;
   border-radius: 3px;
@@ -118,7 +118,7 @@ input[type=text] {
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-}*/
+}
 /*/*.row {  
   display: -ms-flexbox; /* IE10 */
   /*display: flex;
@@ -341,7 +341,7 @@ padding: 940PX 1154PX;
 .bottom-right{
   position: fixed;
 
-  bottom: 150px;
+  /*bottom-right: 150px;*/
   left: 250px;
   background-color: white;
   padding: 20px
