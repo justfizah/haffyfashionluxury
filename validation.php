@@ -13,9 +13,9 @@ $con = mysqli_connect('j1r4n2ztuwm0bhh5.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
 mysqli_select_db($con, 'uqxhpq33hdq5tvnk');
 
 // if(isset($_POST['value'])){
-$username = $_POST['user'];
+$username = $_POST['admin'];
 $email = $_POST['email'];
-$password = $_POST['password'];
+$password = $_POST['admin'];
 
 
 $s = "Select * from hfl where username = '$username'";
