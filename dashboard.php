@@ -2,7 +2,7 @@
 
 session_start();
 if (!isset($_SESSION['username'])) {
-	header('location:hfl.php');
+	header('location:index.php');
 }
 ?>
 <!DOCTYPE html>
