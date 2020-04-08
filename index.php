@@ -67,7 +67,7 @@
 	<figure class="main-visual data-block">
 		<div>
 		<img src="https://res.cloudinary.com/hafizah/image/upload/v1575966705/haffyfashion_ntfr8o.jpg"width="940" height="424">
-		<a class="bottom-right" href="login.signup.php">SHOP NOW</a>
+		<a class="bottom-right" href="dashboard.php">SHOP NOW</a>
 	</div>
 		<figcaption class="clearfix">
 			<strong class="title"> HaffyFashionluxury Week</strong>
